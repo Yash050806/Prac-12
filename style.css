@@ -1,0 +1,32 @@
+
+
+body {
+    font-family: system-ui;
+}
+
+.quiz-container {
+    width: 80%;
+    margin: 20px 15px;
+}
+
+
+
+#options input[type="radio"] {
+    margin-right: 10px;
+}
+
+#submit-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
